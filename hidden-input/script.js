@@ -24,7 +24,7 @@ window.addEventListener('keydown',(e) => {
         
         
         if(store != 'z' && b.length > 0) {
-           b.length = 0;
+           b.length = 0
         }
     }
 
